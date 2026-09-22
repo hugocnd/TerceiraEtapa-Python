@@ -1,0 +1,201 @@
+data,loja,regiao,produto,categoria,quantidade,preco_unitario
+2023-04-14,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiros,1.0,96.04362002659066
+2023-01-02,Loja do Parreira,Barro Preto,Sorvete,Doces Frios,9.0,53.05389799274319
+2023-04-18,Loja da Isabela,Lourdes,Pipoca Doce,Pizza,1.0,63.843882407360184
+2023-11-30,Loja do Hugo,Barroca,Pizza Doce,Doces Caseiros,5.0,90.31006398965306
+2023-07-19,Loja do Hugo,Barro Preto,Pizza Doce,Doces Caseiros,4.0,87.41298451918291
+2023-11-12,Loja do Parreira,Barroca,Sorvete,Pizza,,59.226050967818864
+2023-11-07,Loja da Isabela,Barro Preto,Pipoca Doce,Doces Frios,,60.467466166835514
+2023-10-22,Loja da Isabela,Barro Preto,Sorvete,Doces Frios,,68.5236051395691
+2023-09-18,Loja do Hugo,Savassi,Pipoca Doce,Doces Caseiros,,74.22614925955106
+2023-07-07,Loja do Francisco,Barroca,Chocolate,Pizza,,80.9127385765148
+2023-03-07,Loja do Hugo,Lourdes,Açaí,Doces Frios,,68.44568197848862
+2023-04-22,Loja do Hugo,Lourdes,Açaí,Pizza,13.0,73.1267358066574
+2023-07-01,Loja do Hugo,Barroca,Açaí,Pizza,6.0,87.37354690668784
+2023-11-11,Loja do Hugo,Lourdes,Sorvete,Doces Caseiros,2.0,51.834160144529896
+2023-06-30,Loja do Parreira,Lourdes,Chocolate,Doces Frios,3.0,62.62184721720104
+2023-07-14,Loja da Isabela,Barroca,Pipoca Doce,Doces Caseiros,5.0,85.66747929422762
+2023-11-19,Loja do Parreira,Barro Preto,Pizza Doce,Doces Frios,9.0,94.76034188435997
+2023-05-05,Loja do Parreira,Barroca,Pipoca Doce,Doces Frios,2.0,75.58387210578331
+2023-02-14,Loja do Parreira,Barro Preto,Pizza Doce,Doces Frios,10.0,76.60567426326578
+2023-06-01,Loja do Hugo,Lourdes,Pipoca Doce,Doces Frios,8.0,55.358600566988805
+2023-06-29,Loja do Francisco,Lourdes,Chocolate,Doces Frios,14.0,
+2023-03-16,Loja da Isabela,Lourdes,Pizza Doce,Pizza,2.0,
+2023-09-18,Loja do Francisco,Savassi,Sorvete,Doces Caseiros,11.0,
+2023-10-25,Loja do Parreira,Barro Preto,Pipoca Doce,Pizza,13.0,
+2023-01-20,Loja do Parreira,Savassi,Pipoca Doce,Doces Frios,5.0,
+2023-01-25,Loja do Francisco,Savassi,Pizza Doce,Doces Caseiros,7.0,
+2023-12-04,Loja do Francisco,Barroca,Sorvete,Doces Frios,8.0,66.10395827915892
+2023-11-30,Loja do Francisco,Savassi,Sorvete,Doces Caseiros,1.0,60.572400349827234
+2023-01-04,Loja do Parreira,Barroca,Chocolate,Pizza,6.0,66.37486760889573
+2023-04-08,Loja do Parreira,Barroca,Sorvete,Doces Caseiros,1.0,55.98810659096256
+2023-07-13,Loja da Isabela,Savassi,Sorvete,Doces Caseiros,2.0,94.52636403699475
+2023-10-29,Loja da Isabela,Barro Preto,Sorvete,Doces Caseiros,1.0,79.67962267770244
+2023-03-11,Loja do Parreira,Barro Preto,Açaí,Doces Caseiros,11.0,83.95511595722448
+2023-06-30,Loja do Francisco,Barro Preto,Chocolate,Doces Caseiros,5.0,89.45856193036691
+2023-09-03,Loja do Francisco,Barro Preto,Pipoca Doce,Doces Frios,10.0,74.92210994645286
+2023-12-20,Loja da Isabela,Barro Preto,Pizza Doce,Doces Caseiros,9.0,54.34601440437118
+2023-06-07,Loja do Parreira,Savassi,Pipoca Doce,Doces Caseiros,6.0,76.85532709092739
+2023-09-27,Loja da Isabela,Savassi,Chocolate,Pizza,11.0,79.34205590104395
+2023-01-20,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiros,11.0,87.2719737092165
+2023-01-13,Loja do Hugo,Barro Preto,Chocolate,Pizza,1.0,71.58297731148397
+2023-09-04,Loja do Hugo,Savassi,Sorvete,Doces Frios,13.0,56.37901513977819
+2023-04-28,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiros,1.0,64.18879528993622
+2023-11-18,Loja do Francisco,Barro Preto,Sorvete,Pizza,2.0,68.15411481993175
+2023-04-17,Loja do Parreira,Barroca,Pipoca Doce,Pizza,9.0,82.29586206658007
+2023-07-08,Loja do Parreira,Lourdes,Pipoca Doce,Doces Frios,3.0,78.53891523344559
+2023-10-24,Loja do Parreira,Savassi,Pizza Doce,Doces Caseiros,1.0,67.80483629489231
+2023-10-09,Loja do Parreira,Barroca,Pizza Doce,Doces Caseiros,5.0,99.32576243964898
+2023-06-10,Loja do Hugo,Barroca,Chocolate,Pizza,7.0,80.28874096784436
+2023-10-09,Loja do Francisco,Barroca,Chocolate,Doces Caseiros,6.0,61.86133958679972
+2023-02-06,Loja do Francisco,Lourdes,Sorvete,Pizza,12.0,55.089123631020186
+2023-04-10,Loja do Hugo,Savassi,Pizza Doce,Doces Caseiros,1.0,57.642956959216605
+2023-03-12,Loja do Francisco,Barroca,Pipoca Doce,Pizza,5.0,62.29788641922541
+2023-12-18,Loja do Hugo,Barro Preto,Chocolate,Doces Caseiros,5.0,58.03406866297779
+2023-12-27,Loja do Parreira,Barroca,Chocolate,Doces Frios,6.0,59.32835120256529
+2023-11-14,Loja do Hugo,Barroca,Pipoca Doce,Doces Caseiros,3.0,64.25475843469235
+2023-12-24,Loja do Parreira,Lourdes,Chocolate,Doces Caseiros,5.0,58.66867976473774
+2023-05-25,Loja do Parreira,Lourdes,Sorvete,Doces Frios,7.0,94.83827123132126
+2023-12-25,Loja da Isabela,Savassi,Pizza Doce,Doces Caseiros,5.0,54.01168728308211
+2023-12-24,Loja do Hugo,Barro Preto,Pipoca Doce,Doces Frios,5.0,76.22556947851274
+2023-06-09,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiros,5.0,70.51984134948307
+2023-10-22,Loja do Hugo,Barroca,Chocolate,Pizza,10.0,99.11893084543033
+2023-08-08,Loja do Hugo,Savassi,Chocolate,Pizza,10.0,55.60194510840262
+2023-04-19,Loja da Isabela,Barroca,Pipoca Doce,Doces Caseiros,3.0,69.89277995228709
+2023-12-28,Loja da Isabela,Barroca,Sorvete,Doces Caseiros,1.0,98.47352166376845
+2023-11-14,Loja do Hugo,Lourdes,Açaí,Doces Caseiros,5.0,93.27535629469901
+2023-10-09,Loja do Francisco,Savassi,Pipoca Doce,Pizza,14.0,90.85360354746399
+2023-11-16,Loja do Parreira,Barro Preto,Açaí,Doces Caseiros,9.0,62.895141352246995
+2023-01-27,Loja da Isabela,Barro Preto,Açaí,Pizza,14.0,58.54437936950329
+2023-08-18,Loja do Parreira,Lourdes,Sorvete,Doces Frios,1.0,83.43216099622154
+2023-12-13,Loja do Francisco,Lourdes,Açaí,Pizza,3.0,96.46879945637929
+2023-12-29,Loja do Francisco,Savassi,Açaí,Pizza,13.0,77.83814465069649
+2023-06-27,Loja do Francisco,Barro Preto,Sorvete,Doces Frios,13.0,78.580634473495
+2023-07-09,Loja da Isabela,Barro Preto,Açaí,Pizza,4.0,63.998954683014205
+2023-11-15,Loja do Francisco,Barro Preto,Açaí,Doces Caseiros,14.0,88.47464665959684
+2023-12-05,Loja da Isabela,Barroca,Açaí,Doces Caseiros,1.0,59.35218742787617
+2023-08-27,Loja do Francisco,Barro Preto,Pipoca Doce,Pizza,1.0,66.18396182021218
+2023-11-18,Loja do Parreira,Barroca,Pipoca Doce,Doces Caseiros,8.0,71.27182193082083
+2023-10-28,Loja do Parreira,Savassi,Pipoca Doce,Pizza,2.0,75.38051893422275
+2023-04-04,Loja do Hugo,Barroca,Sorvete,Doces Caseiros,12.0,62.12048662075401
+2023-11-03,Loja do Parreira,Savassi,Chocolate,Doces Caseiros,8.0,55.74184123696018
+2023-07-02,Loja do Hugo,Barro Preto,Açaí,Pizza,7.0,80.53100212208163
+2023-02-24,Loja do Parreira,Barro Preto,Açaí,Doces Caseiros,10.0,64.43152766201278
+2023-11-04,Loja da Isabela,Savassi,Sorvete,Pizza,10.0,79.06191107113061
+2023-11-10,Loja do Parreira,Lourdes,Açaí,Doces Caseiros,2.0,57.718135763710116
+2023-04-05,Loja do Hugo,Savassi,Pipoca Doce,Doces Caseiros,6.0,74.05700509274087
+2023-02-22,Loja do Hugo,Lourdes,Chocolate,Doces Frios,6.0,76.62947162757929
+2023-07-28,Loja do Francisco,Barroca,Pizza Doce,Doces Frios,3.0,52.591176841121346
+2023-01-19,Loja da Isabela,Barroca,Açaí,Pizza,11.0,66.83021390969603
+2023-01-27,Loja do Parreira,Barroca,Pipoca Doce,Doces Frios,2.0,56.72073384694871
+2023-06-18,Loja do Francisco,Barro Preto,Pizza Doce,Pizza,12.0,53.168748523638385
+2023-04-18,Loja do Parreira,Barroca,Chocolate,Doces Frios,1.0,99.49801161949726
+2023-12-02,Loja do Parreira,Lourdes,Pizza Doce,Doces Caseiros,6.0,66.11769224873615
+2023-02-20,Loja do Francisco,Barroca,Pipoca Doce,Pizza,12.0,90.49372229273175
+2023-11-04,Loja do Francisco,Savassi,Pizza Doce,Pizza,5.0,62.732032738188195
+2023-11-12,Loja do Francisco,Savassi,Sorvete,Doces Caseiros,14.0,84.07513611119646
+2023-06-19,Loja do Francisco,Barro Preto,Pizza Doce,Pizza,14.0,88.01139299448432
+2023-03-23,Loja do Francisco,Savassi,Açaí,Pizza,11.0,79.78193703039221
+2023-05-04,Loja do Parreira,Lourdes,Açaí,Doces Frios,9.0,73.57880942750792
+2023-09-03,Loja do Francisco,Barroca,Sorvete,Pizza,1.0,70.59204570736343
+2023-03-20,Loja da Isabela,Barro Preto,Pipoca Doce,Doces Caseiros,7.0,67.44341332714977
+2023-10-29,Loja do Hugo,Barroca,Açaí,Doces Frios,5.0,96.4764572123913
+2023-09-25,Loja do Francisco,Barroca,Chocolate,Doces Frios,5.0,91.53097038938645
+2023-07-28,Loja do Francisco,Lourdes,Açaí,Doces Caseiros,14.0,98.25134553332563
+2023-11-07,Loja do Parreira,Savassi,Açaí,Doces Caseiros,2.0,56.21486117427724
+2023-03-22,Loja do Francisco,Savassi,Pipoca Doce,Doces Frios,11.0,86.54337376018222
+2023-06-11,Loja do Francisco,Barroca,Pizza Doce,Pizza,3.0,96.91702284105189
+2023-11-29,Loja do Francisco,Barro Preto,Açaí,Doces Frios,7.0,59.061653308283006
+2023-02-01,Loja do Parreira,Savassi,Sorvete,Doces Caseiros,6.0,53.32481336833887
+2023-05-04,Loja do Francisco,Barro Preto,Pizza Doce,Doces Frios,12.0,87.05603246450295
+2023-10-04,Loja do Hugo,Savassi,Chocolate,Doces Caseiros,2.0,78.7236556589956
+2023-08-03,Loja do Parreira,Barro Preto,Pipoca Doce,Doces Frios,6.0,92.0914388379136
+2023-11-19,Loja do Hugo,Lourdes,Chocolate,Pizza,2.0,56.988618831314476
+2023-04-10,Loja do Parreira,Barro Preto,Pizza Doce,Doces Frios,2.0,89.76336559299452
+2023-11-12,Loja do Francisco,Lourdes,Pizza Doce,Doces Frios,2.0,60.08136600238723
+2023-02-08,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiros,14.0,58.18279714328523
+2023-10-09,Loja do Parreira,Barro Preto,Chocolate,Doces Caseiros,11.0,58.21328989654965
+2023-04-22,Loja da Isabela,Lourdes,Pizza Doce,Doces Caseiros,3.0,90.72873601156911
+2023-04-06,Loja do Francisco,Barroca,Chocolate,Doces Frios,2.0,83.25986103481
+2023-04-05,Loja do Parreira,Lourdes,Pizza Doce,Pizza,4.0,76.15327123845597
+2023-07-10,Loja da Isabela,Savassi,Sorvete,Doces Caseiros,9.0,67.94152420617513
+2023-08-21,Loja do Parreira,Barro Preto,Pizza Doce,Doces Caseiros,6.0,93.86002704065541
+2023-06-26,Loja da Isabela,Barroca,Chocolate,Doces Frios,1.0,69.62225537113177
+2023-04-11,Loja do Francisco,Barro Preto,Açaí,Doces Caseiros,8.0,90.82997197357886
+2023-11-03,Loja do Hugo,Savassi,Pizza Doce,Pizza,12.0,71.95674542851091
+2023-10-24,Loja da Isabela,Savassi,Açaí,Pizza,14.0,68.84722147124538
+2023-02-10,Loja do Parreira,Savassi,Sorvete,Doces Caseiros,7.0,73.13398928348032
+2023-01-18,Loja do Francisco,Lourdes,Pipoca Doce,Doces Caseiros,10.0,65.0688937082071
+2023-06-09,Loja da Isabela,Lourdes,Sorvete,Doces Frios,3.0,87.38046900881255
+2023-02-12,Loja do Parreira,Barro Preto,Pizza Doce,Pizza,1.0,75.13601950462396
+2023-03-10,Loja do Parreira,Barro Preto,Açaí,Pizza,5.0,61.61063475734086
+2023-06-11,Loja do Parreira,Barroca,Açaí,Doces Caseiros,13.0,94.97872866372842
+2023-10-15,Loja da Isabela,Barroca,Chocolate,Doces Frios,4.0,69.19456106866056
+2023-02-22,Loja da Isabela,Barro Preto,Açaí,Pizza,10.0,77.17764305569943
+2023-08-06,Loja da Isabela,Lourdes,Chocolate,Pizza,8.0,95.32360554822735
+2023-02-09,Loja do Hugo,Savassi,Pipoca Doce,Doces Frios,1.0,81.21189979569961
+2023-10-03,Loja da Isabela,Barro Preto,Pizza Doce,Doces Frios,10.0,55.8449020354182
+2023-07-26,Loja da Isabela,Barroca,Chocolate,Pizza,1.0,96.99160618067376
+2023-01-28,Loja da Isabela,Lourdes,Pipoca Doce,Pizza,12.0,81.38540265357089
+2023-09-07,Loja do Hugo,Barro Preto,Açaí,Doces Frios,4.0,66.7452807328543
+2023-01-13,Loja da Isabela,Barro Preto,Açaí,Pizza,8.0,56.96360363316936
+2023-03-24,Loja do Parreira,Lourdes,Pipoca Doce,Doces Caseiros,5.0,89.7012594635148
+2023-11-03,Loja da Isabela,Barro Preto,Açaí,Doces Caseiros,2.0,81.00363779642568
+2023-07-07,Loja do Parreira,Lourdes,Pipoca Doce,Doces Frios,6.0,76.67305459881608
+2023-12-28,Loja do Parreira,Savassi,Chocolate,Doces Frios,5.0,94.69462915254789
+2023-06-13,Loja do Parreira,Lourdes,Chocolate,Doces Frios,2.0,89.42986056122655
+2023-11-17,Loja do Hugo,Lourdes,Pipoca Doce,Doces Caseiros,13.0,57.58374398663756
+2023-11-29,Loja do Hugo,Lourdes,Chocolate,Pizza,14.0,65.5861033897774
+2023-11-23,Loja do Hugo,Barro Preto,Chocolate,Doces Caseiros,11.0,62.424456990723286
+2023-05-15,Loja da Isabela,Barro Preto,Chocolate,Pizza,11.0,87.19731462863385
+2023-11-08,Loja do Parreira,Lourdes,Sorvete,Doces Caseiros,11.0,51.67662173678897
+2023-12-06,Loja do Hugo,Barro Preto,Pizza Doce,Pizza,3.0,78.49448424356582
+2023-04-30,Loja do Hugo,Barroca,Açaí,Doces Caseiros,9.0,88.12293428703452
+2023-04-16,Loja da Isabela,Barroca,Sorvete,Doces Frios,7.0,93.83828183808748
+2023-11-14,Loja do Hugo,Barro Preto,Chocolate,Doces Caseiros,7.0,67.10408743579538
+2023-08-31,Loja da Isabela,Barro Preto,Pipoca Doce,Pizza,11.0,91.06286523360063
+2023-08-21,Loja do Francisco,Lourdes,Chocolate,Doces Caseiros,6.0,55.53158684776036
+2023-09-13,Loja do Hugo,Savassi,Pizza Doce,Doces Caseiros,8.0,92.3226145867259
+2023-08-01,Loja do Francisco,Barro Preto,Chocolate,Doces Caseiros,4.0,56.37443311659912
+2023-12-09,Loja da Isabela,Barroca,Pipoca Doce,Doces Frios,8.0,69.86436452801837
+2023-09-30,Loja do Parreira,Lourdes,Pizza Doce,Doces Caseiros,4.0,89.86476828897767
+2023-04-27,Loja do Hugo,Barro Preto,Chocolate,Doces Frios,8.0,57.49587136743869
+2023-12-22,Loja da Isabela,Barroca,Pizza Doce,Doces Frios,9.0,61.462569761632075
+2023-05-21,Loja do Parreira,Barroca,Açaí,Doces Caseiros,3.0,86.1126284196533
+2023-08-17,Loja do Parreira,Savassi,Açaí,Doces Caseiros,3.0,86.00182682730372
+2023-09-03,Loja do Francisco,Lourdes,Chocolate,Doces Caseiros,11.0,82.05738164426486
+2023-04-27,Loja da Isabela,Lourdes,Pizza Doce,Pizza,13.0,84.697422223355
+2023-11-06,Loja do Parreira,Savassi,Pipoca Doce,Doces Caseiros,2.0,77.13622216737981
+2023-12-02,Loja do Hugo,Savassi,Chocolate,Doces Frios,13.0,62.58995294534763
+2023-04-20,Loja do Hugo,Lourdes,Açaí,Doces Caseiros,10.0,67.28479967519597
+2023-01-16,Loja do Francisco,Lourdes,Açaí,Pizza,3.0,59.079885840071285
+2023-05-17,Loja do Parreira,Barro Preto,Chocolate,Doces Caseiros,3.0,95.42252806668142
+2023-03-08,Loja da Isabela,Barro Preto,Pizza Doce,Pizza,5.0,79.16958973830603
+2023-06-10,Loja do Hugo,Savassi,Açaí,Pizza,5.0,70.042570838182
+2023-07-27,Loja do Parreira,Barro Preto,Pizza Doce,Doces Caseiros,2.0,73.10029018220663
+2023-07-15,Loja do Parreira,Barroca,Açaí,Doces Frios,12.0,97.36416698059077
+2023-01-17,Loja do Francisco,Barro Preto,Açaí,Pizza,10.0,57.66757015580401
+2023-01-08,Loja do Hugo,Barro Preto,Sorvete,Doces Caseiros,13.0,79.31149160083986
+2023-09-16,Loja do Hugo,Barroca,Açaí,Doces Caseiros,6.0,75.2944339442233
+2023-12-10,Loja da Isabela,Savassi,Pipoca Doce,Doces Frios,5.0,80.57271177173239
+2023-03-23,Loja do Hugo,Barroca,Chocolate,Pizza,6.0,50.90550919104203
+2023-06-25,Loja da Isabela,Barro Preto,Chocolate,Pizza,1.0,93.60619544720757
+2023-03-04,Loja do Hugo,Savassi,Pizza Doce,Doces Caseiros,5.0,96.60591412418063
+2023-09-18,Loja do Francisco,Barro Preto,Açaí,Doces Caseiros,9.0,78.25665917946044
+2023-08-22,Loja do Hugo,Barroca,Pipoca Doce,Doces Frios,12.0,84.8325411938446
+2023-06-13,Loja da Isabela,Barroca,Pizza Doce,Doces Frios,10.0,96.12496905886479
+2023-01-20,Loja da Isabela,Barro Preto,Sorvete,Pizza,14.0,85.36193171566993
+2023-12-25,Loja do Francisco,Lourdes,Pizza Doce,Pizza,2.0,57.62695214571307
+2023-09-23,Loja do Hugo,Lourdes,Pizza Doce,Doces Caseiros,1.0,78.81441800834065
+2023-06-14,Loja do Hugo,Barroca,Açaí,Pizza,14.0,80.3357523191428
+2023-02-12,Loja do Francisco,Barroca,Sorvete,Doces Frios,10.0,71.2065335651193
+2023-04-24,Loja do Hugo,Lourdes,Pizza Doce,Doces Frios,13.0,86.82221178123615
+2023-10-07,Loja do Hugo,Lourdes,Pipoca Doce,Doces Caseiros,11.0,96.71835073845074
+2023-10-18,Loja da Isabela,Barro Preto,Pipoca Doce,Doces Frios,9.0,96.27842564533881
+2023-06-05,Loja do Hugo,Barro Preto,Chocolate,Doces Frios,10.0,72.5419685702066
+2023-07-22,Loja do Hugo,Lourdes,Sorvete,Doces Frios,9.0,55.661902292037766
+2023-03-04,Loja do Francisco,Barro Preto,Sorvete,Doces Frios,9.0,99.24205994811672
+2023-05-09,Loja do Francisco,Barro Preto,Chocolate,Doces Caseiros,6.0,91.94490432229671
+2023-09-04,Loja do Parreira,Savassi,Pizza Doce,Doces Caseiros,8.0,56.233134060163344
+2023-07-02,Loja da Isabela,Barro Preto,Sorvete,Pizza,14.0,96.04209413086862
+2023-07-01,Loja do Hugo,Barroca,Pipoca Doce,Doces Frios,11.0,93.49481810310641
